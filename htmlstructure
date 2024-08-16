@@ -22,17 +22,17 @@
     <section id="equipe">
         <h2>Conheça a Nossa Equipe</h2>
         <div class="membro">
-            <img src="img/membro1.jpg" alt="João Silva">
+            <img src="https://minorosom.com.br/wp-content/uploads/2019/11/Equipe-scaled.jpg" alt="João Silva">
             <h3>João Silva</h3>
             <p>CEO & Fundador</p>
         </div>
         <div class="membro">
-            <img src="img/membro2.jpg" alt="Maria Oliveira">
+            <img src="https://minorosom.com.br/wp-content/uploads/2019/11/Equipe-scaled.jpg" alt="Maria Oliveira">
             <h3>Maria Oliveira</h3>
             <p>CTO & Co-Fundadora</p>
         </div>
         <div class="membro">
-            <img src="img/membro3.jpg" alt="Carlos Souza">
+            <img src="https://minorosom.com.br/wp-content/uploads/2019/11/Equipe-scaled.jpg" alt="Carlos Souza">
             <h3>Carlos Souza</h3>
             <p>Diretor de Marketing</p>
         </div>
