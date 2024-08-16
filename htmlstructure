@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoPower - Energia Solar Portátil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>EcoPower</h1>
+        <h2>Soluções de Energia Solar Portátil</h2>
+    </header>
+
+    <section id="sobre">
+        <h2>Sobre o Produto</h2>
+        <p>A EcoPower oferece soluções de energia solar portátil para quem precisa de energia em qualquer lugar. Nossos produtos são ideais para acampamentos, emergências e muito mais!</p>
+        <img src="img/produto1.jpg" alt="Painel Solar Portátil">
+        <img src="img/produto2.jpg" alt="Carregador Solar Portátil">
+    </section>
+
+    <section id="equipe">
+        <h2>Conheça a Nossa Equipe</h2>
+        <div class="membro">
+            <img src="img/membro1.jpg" alt="João Silva">
+            <h3>João Silva</h3>
+            <p>CEO & Fundador</p>
+        </div>
+        <div class="membro">
+            <img src="img/membro2.jpg" alt="Maria Oliveira">
+            <h3>Maria Oliveira</h3>
+            <p>CTO & Co-Fundadora</p>
+        </div>
+        <div class="membro">
+            <img src="img/membro3.jpg" alt="Carlos Souza">
+            <h3>Carlos Souza</h3>
+            <p>Diretor de Marketing</p>
+        </div>
+    </section>
+
+    <section id="inscricao">
+        <h2>Inscreva-se para saber mais</h2>
+        <form action="https://formspree.io/f/{sua-chave}" method="POST">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
+            
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="cidade">Cidade:</label>
+            <input type="text" id="cidade" name="cidade">
+            
+            <label for="estado">Estado:</label>
+            <input type="text" id="estado" name="estado">
+            
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 EcoPower. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
